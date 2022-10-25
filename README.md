@@ -29,4 +29,4 @@ cd Password-list-Generator
 python3 fox-pass.py
 ```
 
-## Telegram Channel :  [BlackFoTM](https://t.me/BlackFoxSecurityTeam)
+## Telegram Channel :  [BlackFoxTM](https://t.me/BlackFoxSecurityTeam)
